@@ -60,6 +60,7 @@ I’m actively seeking opportunities as a Cybersecurity SOC Analyst, whether con
 If your team is looking for someone with experience and skills in these areas, I would be glad to contribute and work with you.
 
 **Get in touch via [Mail:](mailto:kingsleyogbonna045@gmail.com)**
+
 **Connect on [LinkedIn](https://www.linkedin.com/in/ogbonna-kingsley-u/)**
 
 
