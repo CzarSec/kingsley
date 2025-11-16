@@ -12,20 +12,20 @@ My professional journey began in creative and administrative roles working as a 
 Driven by a desire to take my career a step further, I pivoted into cybersecurity, where I now focus on defending organizations against threat actors and safeguarding critical systems from cyberattacks. I’m currently building deep expertise in Security Operations (SOC) with a particular focus on Incident Response, threat detection, and alert triage.
 My work focuses on deploying and managing SIEM solutions that help organizations monitor their environments and defend against threats. I also apply OSINT techniques as a Cyber Threat Intelligence analyst to identify cues that could pose risks to businesses.
 
-As a SOC Analyst, I configure tools that collect and analyze aggregated logs, which guide my response actions. From the CTI side, I rely on monitoring platforms to discover potential threats, investigate them, and provide timely reports to the appropriate stakeholders.
+As a SOC Analyst, I configure tools that collect and analyze aggregated logs, which guide my response actions. I rely on monitoring platforms to discover potential threats, investigate them, and provide timely reports to the appropriate stakeholders.
 
 Here are some of the tools I use regularly:
 
-Wazuh: My preferred SIEM solution for detecting threats on endpoints and cloud servers, and for taking real-time action through its active response feature.
-Graylog: Useful for collecting and centralizing logs from multiple devices.
-Wireshark: Helps me inspect and analyze network packets.
-Spiderfoot: Supports reconnaissance for identifying points of interest during investigations.
+**Wazuh:** My preferred SIEM solution for detecting threats on endpoints and cloud servers, and for taking real-time action through its active response feature.
+**Graylog:** Useful for collecting and centralizing logs from multiple devices.
+**Wireshark:** Helps me inspect and analyze network packets.
+**Spiderfoot:** Supports reconnaissance for identifying points of interest during investigations.
 ***
 ## Skills
 - Wazuh SIEM & XDR.
 - Cloud Based SIEM.
 - Log Analysis.
-- Threat Intelligenc.e
+- Threat Intelligence.
 - Malware Analysis.
 - Incident Detection and Response.
 - Vulnerability Management.
